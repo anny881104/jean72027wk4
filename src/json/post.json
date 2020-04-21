@@ -1,0 +1,40 @@
+{
+    "albumList": [
+       {
+       "title": "hamy.kokinme",
+       "image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/hamy.kokinme.jpg",
+       "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/hamy.png",
+       "likes":"500個讚",
+       "article":"家のベランダで撮影会📷"
+       },
+       {
+          "title": "inari0518",
+          "image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/inari0518.jpg",
+          "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/inari.png",
+          "likes":"1,070個讚",
+          "article":"いなりくん入院になりました🏥"
+       },
+       {
+          "title": "onakan_s",
+          "image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/onakan_s.jpg",
+          "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/onakan.png",
+          "likes":"4,096個讚",
+          "article":"桜とスーさん"
+       },
+       {
+          "title": "oniwano_haru",
+          "image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/oniwano_haru.jpg",
+          "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/oniwanoharu.png",
+          "likes":"4,872個讚",
+          "article":"8分咲きの頃の桜🌸"
+       },
+       {
+          "title": "usausausa1201",
+          "image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/usausausa1201.jpg",
+          "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/usausausa.png",
+          "likes":"6,608個讚",
+          "article":"ぺ桜🌸とはる桜🌸"
+       }
+ ]
+
+}

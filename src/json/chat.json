@@ -1,0 +1,36 @@
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20feather-camera.png",
+            "HeaderMid":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Instagram_logo.png",
+            "HeaderRightUrl":"https://cdn0.iconfinder.com/data/icons/instagram-32/512/Chat_Message_DM-512.png",
+            "home":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20material-home.png",
+            "search":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20ionic-ios-search.png",
+            "addarticle":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/new.png",
+            "heart":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20feather-heart.png",
+            "userpic":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20awesome-user-circle.png"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://raw.githubusercontent.com/anny881104/igimg/master/imgs/back.png",
+            "bottomImage":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20feather-camera.png",
+            "HeaderRightUrl":"https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20awesome-video.png"
+        },
+
+        "Friends": 
+        {
+        "name": "   _anny1999",
+        "camera": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20feather-camera.png",
+        "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/_anny1999.png",
+        "chat":"7小時前上線"
+        },
+
+        "Friends2": 
+        {
+        "name": "      crystalwu113",
+        "camera": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/icon/Icon%20feather-camera.png",
+        "thumbnail_image": "https://raw.githubusercontent.com/jean72027/wk4-HW/master/img/crystalwu113.png",
+        "chat":"7小時前上線"
+        } 
+}
